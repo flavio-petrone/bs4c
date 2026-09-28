@@ -1,0 +1,7 @@
+# Questa cartella contiene soltanto la presentazione del progetto.
+# I sorgenti e la configurazione del cliente rimangono fuori dal repository.
+*
+!.gitignore
+!README.md
+!docs/
+!docs/anteprima.jpg
